@@ -1,0 +1,14 @@
+{
+  "profile": true,
+  "profile_file": "assets/saugat-cutout.png",
+  "videos": [
+    "assets/videos/edit-02.mp4",
+    "assets/videos/edit-03.mp4",
+    "assets/videos/manga-edit.mp4"
+  ],
+  "thumbnails": [
+    "assets/thumbs/edit-02.jpg",
+    "assets/thumbs/edit-03.jpg",
+    "assets/thumbs/manga-edit.jpg"
+  ]
+}
